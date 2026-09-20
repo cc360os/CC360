@@ -1,0 +1,161 @@
+{
+ "project": {
+ "name": "Digital Coach Launchpad",
+ "slug": "digital-coach-launchpad",
+ "type": "ebook_bundle",
+ "brand": {
+ "name": "Coach Conversion 360",
+ "support_email": "coachconversion360@gmail.com"
+ },
+ "currency": "INR",
+ "created_on_flexifunnels": "2026-09-19",
+ "last_updated": "2026-09-20",
+ "status": "ready_to_sell",
+ "notes": "Awaiting Cashfree KYC approval (1-3 business days from 2026-09-19). All funnel assets, pages, and deliverables are live and wired. Payments will go live automatically once the gateway is approved."
+ },
+ "product": {
+ "product_id": 131642,
+ "product_code": "",
+ "title": "The Digital Coach Launchpad",
+ "type": "digital",
+ "currency": "INR",
+ "price": 499,
+ "pricing_type": "one_time",
+ "status": "live",
+ "deliverable": "main_ebook_pdf",
+ "support_url": "coachconversion360@gmail.com",
+ "payment_gateway": "Cashfree",
+ "payment_gateway_status": "kyc_pending"
+ },
+ "pages": [
+ {
+ "name": "Sales Page",
+ "page_type": "SALES",
+ "url": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-sales",
+ "role": "Main landing page where visitors learn about the bundle and click buy"
+ },
+ {
+ "name": "Sample Preview",
+ "page_type": "SALES",
+ "url": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-sample",
+ "role": "Free sample (TOC + intro + 3 workbook days) so visitors can preview without getting the whole product"
+ },
+ {
+ "name": "Waitlist",
+ "page_type": "LEADS",
+ "url": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-waitlist",
+ "role": "Pre-launch email capture (name + email + phone) with inline thank-you and share buttons"
+ },
+ {
+ "name": "Checkout",
+ "page_type": "CHECKOUT",
+ "url": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-checkout",
+ "role": "Payment page with main offer (Rs 499) and order bump (Rs 299 WhatsApp accountability)"
+ },
+ {
+ "name": "Thank You",
+ "page_type": "THANKYOU",
+ "url": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-thankyou",
+ "role": "Post-purchase page with direct download links to both PDFs"
+ }
+ ],
+ "bump_offer": {
+ "name": "15-Day Daily Accountability (WhatsApp)",
+ "price": 299,
+ "currency": "INR",
+ "pre_checked": true,
+ "delivery": "manual_WhatsApp_group",
+ "headline": "Yes! Add 15-Day Daily WhatsApp Accountability",
+ "subheadline": "Get a daily accountability task in WhatsApp for 15 days - only Rs 299",
+ "description": "Every morning for 15 days, you'll get one clear task on WhatsApp telling you exactly what to do that day to launch your coaching business. No guessing, no overwhelm - just one focused task at a time until you're live."
+ },
+ "deliverables": {
+ "main_ebook": {
+ "title": "The Digital Coach Launchpad",
+ "file_url": "https://mobile.flexifunnels.com/files/05635518-eaf4-458c-b15b-a222866a5b2d",
+ "pages": 12,
+ "chapters": 10,
+ "size_bytes": 55002,
+ "delivered_via": "automatic_order_email",
+ "digital_asset_code": ""
+ },
+ "workbook": {
+ "title": "15-Day Daily Action Workbook",
+ "file_url": "https://mobile.flexifunnels.com/files/056c1ff9-ca49-4d2e-b65d-376d17fa6876",
+ "pages": 16,
+ "chapters": 15,
+ "size_bytes": 24439,
+ "delivered_via": "thank_you_page_download_link_and_order_email",
+ "digital_asset_code": ""
+ }
+ },
+ "assets": {
+ "product_image": {
+ "url": "https://mobile.flexifunnels.com/files/d2f7fffd-1490-4a8e-852a-5df7e152fcd7",
+ "type": "1:1_square",
+ "use": "Sales page hero, social media posts, marketplace listings"
+ },
+ "waitlist_page_mockup": {
+ "url": "https://mobile.flexifunnels.com/files/c3c4acb7-df80-4214-b192-198a0f8e2be9",
+ "type": "16:9_landscape",
+ "use": "Social media announcement for waitlist launch"
+ }
+ },
+ "share_links": {
+ "waitlist_page": "https://2jev57.flexi-funnels.com/digital-coach-launchpad-waitlist",
+ "whatsapp": "https://wa.me/?text=Check%20this%20out%20%E2%80%94%20The%20Digital%20Coach%20Launchpad%20waitlist%3A%20https%3A%2F%2F2jev57.flexi-funnels.com%2Fdigital-coach-launchpad-waitlist",
+ "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2jev57.flexi-funnels.com%2Fdigital-coach-launchpad-waitlist",
+ "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2F2jev57.flexi-funnels.com%2Fdigital-coach-launchpad-waitlist"
+ },
+ "timeline": [
+ {"date": "2026-09-19", "event": "Sales page created"},
+ {"date": "2026-09-19", "event": "Checkout page created"},
+ {"date": "2026-09-19", "event": "Thank You page created"},
+ {"date": "2026-09-19", "event": "Refund text removed from all pages"},
+ {"date": "2026-09-19", "event": "Product created at Rs 499 (initial price 299 corrected to 499)"},
+ {"date": "2026-09-19", "event": "Cashfree payment gateway attached (KYC pending)"},
+ {"date": "2026-09-19", "event": "Main ebook PDF generated"},
+ {"date": "2026-09-19", "event": "15-Day workbook PDF generated"},
+ {"date": "2026-09-19", "event": "Both PDFs registered as digital assets"},
+ {"date": "2026-09-19", "event": "Main ebook attached to product as primary deliverable"},
+ {"date": "2026-09-19", "event": "Thank You page updated with direct download links"},
+ {"date": "2026-09-19", "event": "Sales page updated with both deliverables and preview links"},
+ {"date": "2026-09-19", "event": "Product image mockup generated and added to Sales page hero"},
+ {"date": "2026-09-19", "event": "Waitlist page created with capture form and share buttons"},
+ {"date": "2026-09-19", "event": "Waitlist page mockup generated"},
+ {"date": "2026-09-19", "event": "Order bump added (Rs 299 WhatsApp accountability, pre-checked)"},
+ {"date": "2026-09-19", "event": "Bump copy added via dashboard (headline + subheadline + description)"},
+ {"date": "2026-09-20", "event": "Sample Preview page created (locked chapters + days 1-3)"},
+ {"date": "2026-09-20", "event": "Sales page preview buttons re-pointed to Sample Preview (no longer leaking full PDFs)"},
+ {"date": "2026-09-20", "event": "Project JSON snapshot exported"}
+ ],
+ "next_steps": [
+ {"step": "Wait for Cashfree KYC approval", "expected": "around 2026-09-21 to 2026-09-23", "blocking": true},
+ {"step": "Confirm product is_sellable status flips to true once gateway is active"},
+ {"step": "Run a test transaction (small amount, refund immediately) once gateway goes live"},
+ {"step": "Drive traffic to the Waitlist page via Instagram, YouTube, LinkedIn, Facebook"},
+ {"step": "When launch day arrives: switch Waitlist messaging to 'Buy now' and send broadcast email to waitlist"}
+ ],
+ "checklist_completed": {
+ "sales_page": true,
+ "checkout_page": true,
+ "thankyou_page": true,
+ "waitlist_page": true,
+ "sample_preview_page": true,
+ "product_created": true,
+ "pricing_set": true,
+ "payment_gateway_attached": true,
+ "main_ebook_attached_as_deliverable": true,
+ "bump_offer_added": true,
+ "refund_text_removed_from_all_pages": true,
+ "product_image_on_sales_page": true,
+ "share_buttons_wired": true,
+ "preview_does_not_leak_full_product": true
+ },
+ "outstanding": {
+ "payment_gateway_active": false,
+ "test_transaction_completed": false,
+ "first_real_sale": false,
+ "waitlist_signups_collected": 0
+ }
+}
