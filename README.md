@@ -1,6 +1,6 @@
 # The Digital Coach Launchpad
 
-**A complete ebook + workbook bundle for new digital coaches — built with FlexiFunnels.**
+**A complete ebook + workbook bundle for new digital coaches — built with ff.**
 
 > **Brand:** Coach Conversion 360 • **Currency:** INR • **Price:** ₹499 (with ₹299 WhatsApp accountability order bump) • **Status:** Ready to sell (awaiting Cashfree KYC approval, expected 21–23 September 2026)
 
@@ -137,8 +137,8 @@ https://2jev57.flexi-funnels.com/digital-coach-launchpad-waitlist
 
 All content (PDFs, copy, images, code) is owned by **Coach Conversion 360**. The PDFs are sold to buyers for personal use — resale or redistribution is not permitted.
 
-You're free to fork this repo's *structure* and *configuration* as a starting point for your own FlexiFunnels projects.
+You're free to fork this repo's *structure* and *configuration* as a starting point for your own ff projects.
 
 ---
 
-*Built with FlexiFunnels. Documented on 2026-09-20.*
+*Built with ff. Documented on 2026-09-20.*
